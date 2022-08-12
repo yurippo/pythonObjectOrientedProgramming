@@ -51,3 +51,24 @@ class Circulo:
 # from circulo import Circulo
 # Circulo.PI
 # 3.14
+
+#
+# Nesta aula, aprendemos:
+#
+# Métodos privados
+# Métodos da classe, os métodos estáticos
+#
+# Nesse curso apresentamos os fundamentos do paradigma da Orientação a Objetos.
+# Vimos como definir classes e quais são os membros delas como atributos, métodos
+# e construtores. Aprendemos que as classes servem como planta para criar objetos
+# e os métodos encapsulam a implementação.
+#
+# A notícia boa é que não chegamos ao fim desse paradigma poderoso e existem ainda
+# tópicos mais avançados como herança, polimorfismo, duck typing entre outros assuntos
+# da Orientação a Objetos.
+#
+# Convido você a assistir o próximo curso que fala justamente sobre esses tópicos.
+# Você aplicará esses novos recursos dentro de tudo que você aprendeu nesse curso.
+# Espero que você tenha gostado desse curso e peço para avaliar para dar um feedback para gente.
+#
+# Muito obrigado, Nico :)
